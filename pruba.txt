@@ -2,3 +2,5 @@ brueba Nª 1
 en Git en Ubuntu
 En esta hoja de texto nos vamos a informar acerca de los comando de Git
 para trabajar nustros archivos  de proyectos WEB.
+
+estamos añadiendo nuevos archios de prueba
