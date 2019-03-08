@@ -1,3 +1,3 @@
 Este es otro archivo de prueba con Git en donde estamos 
-comprobando el almacenamiento de archivos 
-para asi trabajar de modo mas seguro en la WEB.
+comprobando el almacenamiento de archivose
+en este archivo estamos trabajando este jueves 07 Marzo 2019
